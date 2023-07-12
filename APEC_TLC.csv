@@ -1,0 +1,218 @@
+Pais,apec,tlc
+Afganistán,NO,NO
+Albania,NO,NO
+Alemania,NO,NO
+Andorra,NO,NO
+Angola,NO,NO
+Antigua y Barbuda,NO,NO
+Arabia Saudita,NO,NO
+Argelia,NO,NO
+Argentina,NO,NO
+Armenia,NO,NO
+Aruba,NO,NO
+Australia,SI,SI
+Austria,NO,NO
+Azerbaiyán,NO,NO
+Bahamas,NO,NO
+Bahrein,NO,NO
+Bangladesh,NO,SI
+Barbados,NO,NO
+Belarús,NO,NO
+Bélgica,NO,NO
+Belice,NO,NO
+Benin,NO,NO
+Bermudas,NO,NO
+Bhután,NO,NO
+Bolivia,NO,NO
+Bonaire,NO,NO
+Bosnia y Herzegovina,NO,NO
+Botswana,NO,NO
+Brasil,NO,NO
+Brunei Darussalam,SI,SI
+Bulgaria,NO,NO
+Burkina Faso,NO,NO
+Burundi,NO,NO
+Cabo Verde,NO,NO
+Camboya,NO,SI
+Camerún,NO,NO
+Canadá,SI,NO
+Chad,NO,NO
+Chile,SI,SI
+Chipre,NO,NO
+Colombia,NO,NO
+Comoras,NO,NO
+"Congo, Rep. del",NO,NO
+"Congo, Rep. Dem. del",NO,NO
+"Corea, Rep. de",SI,SI
+"Corea, Rep. Dem. de",NO,NO
+Costa Rica,NO,SI
+Côte d'Ivoire,NO,NO
+Croacia,NO,NO
+Cuba,NO,NO
+Curacao,NO,NO
+Dinamarca,NO,NO
+Djibouti,NO,NO
+Dominica,NO,NO
+Ecuador,NO,NO
+"Egipto, Rep. Árabe de",NO,NO
+El Salvador,NO,NO
+Emiratos Árabes Unidos,NO,NO
+Eritrea,NO,NO
+Eslovenia,NO,NO
+España,NO,NO
+Estados Unidos,SI,NO
+Estonia,NO,NO
+Eswatini,NO,NO
+Etiopía (excluida Eritrea),NO,NO
+Federación de Rusia,SI,NO
+Fiji,NO,NO
+Filipinas,SI,SI
+Finlandia,NO,NO
+Francia,NO,NO
+Gabón,NO,NO
+Gambia,NO,NO
+Georgia,NO,SI
+Ghana,NO,NO
+Gibraltar,NO,NO
+Granada,NO,NO
+Grecia,NO,NO
+Groenlandia,NO,NO
+Guatemala,NO,NO
+Guinea,NO,NO
+Guinea Ecuatorial,NO,NO
+Guinea-Bissau,NO,NO
+Guyana,NO,NO
+Haití,NO,NO
+Honduras,NO,NO
+Hong Kong (China),SI,SI
+Hungría,NO,NO
+India,NO,SI
+Indonesia,SI,SI
+"Irán, Rep. Islámica del",NO,NO
+Iraq,NO,NO
+Irlanda,NO,NO
+Isla Norfolk,NO,NO
+Islandia,NO,SI
+Islas Caimán,NO,NO
+Islas Cook,NO,NO
+Islas Feroe,NO,NO
+Islas Marshall,NO,NO
+Islas Salomón,NO,NO
+Islas Turcas y Caicos,NO,NO
+Islas Vírgenes Británicas,NO,NO
+Islas Wallis y Futuna,NO,NO
+Israel,NO,NO
+Italia,NO,NO
+Jamaica,NO,NO
+Japón,SI,SI
+Jordania,NO,NO
+Kazajstán,NO,NO
+Kenya,NO,NO
+Kirguistán,NO,NO
+Kiribati,NO,NO
+Kuwait,NO,NO
+Lesotho,NO,NO
+Letonia,NO,NO
+Líbano,NO,NO
+Liberia,NO,NO
+Libia,NO,NO
+Lituania,NO,NO
+Luxemburgo,NO,NO
+Macao,NO,SI
+Macedonia del Norte,NO,NO
+Madagascar,NO,NO
+Malasia,SI,SI
+Malawi,NO,NO
+Maldivas,NO,NO
+Malí,NO,NO
+Malta,NO,NO
+Marruecos,NO,NO
+Mauricio,NO,SI
+Mauritania,NO,NO
+México,SI,NO
+"Micronesia, Estados Fed. de",NO,NO
+Mongolia,NO,NO
+Montenegro,NO,NO
+Montserrat,NO,NO
+Mozambique,NO,NO
+Myanmar,NO,SI
+Namibia,NO,NO
+Nauru,NO,NO
+Nepal,NO,NO
+Nicaragua,NO,NO
+Níger,NO,NO
+Nigeria,NO,NO
+No especificados ,NO,NO
+Noruega,NO,NO
+Nueva Caledonia,NO,NO
+Nueva Zelandia,SI,SI
+Omán,NO,NO
+"Otra zona de Asia, no esp.",NO,NO
+Países Bajos,NO,NO
+Pakistán,NO,SI
+Palau,NO,NO
+Panamá,NO,NO
+Papua Nueva Guinea,SI,NO
+Paraguay,NO,NO
+Perú,SI,SI
+Polinesia Francesa,NO,NO
+Polonia,NO,NO
+Portugal,NO,NO
+Qatar,NO,NO
+Reino Unido,NO,NO
+República Árabe Siria,NO,NO
+República Centroafricana,NO,NO
+República Checa,NO,NO
+República de Moldova,NO,NO
+República Democrática Popular Lao,NO,SI
+República Dominicana,NO,NO
+República Eslovaca,NO,NO
+Rumania,NO,NO
+Rwanda,NO,NO
+Sahara Occidental,NO,NO
+Saint Kitts y Nevis,NO,NO
+Samoa,NO,NO
+San Marino,NO,NO
+San Pedro y Miquelón,NO,NO
+San Vicente y las Granadinas,NO,NO
+Santa Lucía,NO,NO
+Santa Sede,NO,NO
+Santo Tomé y Príncipe,NO,NO
+Senegal,NO,NO
+"Serbia, Rep. Fed. de (Serbia y Montenegro)",NO,NO
+Seychelles,NO,NO
+Sierra Leona,NO,NO
+Singapur,SI,SI
+Somalia,NO,NO
+Sri Lanka,NO,SI
+Sudáfrica,NO,NO
+Sudán,NO,NO
+Sudán del Sur,NO,NO
+Suecia,NO,NO
+Suiza,NO,SI
+Suriname,NO,NO
+Tailandia,SI,SI
+Tanzanía,NO,NO
+Tayikistán,NO,NO
+Territorio Palestino Ocupado,NO,NO
+Timor Oriental,NO,NO
+Togo,NO,NO
+Tonga,NO,NO
+Trinidad y Tobago,NO,NO
+Túnez,NO,NO
+Turkmenistán,NO,NO
+Turquía,NO,NO
+Tuvalu,NO,NO
+Ucrania,NO,NO
+Uganda,NO,NO
+Uruguay,NO,NO
+Uzbekistán,NO,NO
+Vanuatu,NO,NO
+Venezuela,NO,NO
+Viet Nam,SI,SI
+"Yemen, Rep. del",NO,NO
+Zambia,NO,NO
+Zimbabwe,NO,NO
+,,
+http://rtais.wto.org/UI/PublicSearchByMemberResult.aspx?MemberCode=156&lang=1&redirect=1,,
+https://www.midagri.gob.pe/portal/179-exportaciones/grupos-economicos/513-cooperacion-economica-asia--pacifico-apec,,
